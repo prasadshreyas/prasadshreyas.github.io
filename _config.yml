@@ -87,7 +87,7 @@ kaggle_id: # your kaggle id
 lastfm_id: # your lastfm id
 spotify_id: knowshreyas # your spotify id
 pinterest_id: # your pinterest id
-unsplash_id: # your unsplash id
+unsplash_id: prasadshreyas # your unsplash id
 instagram_id: _shreyasprasad # your instagram id
 facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
@@ -314,12 +314,12 @@ enable_math:                true   # enables math typesetting (uses MathJax)
 enable_tooltips:            false  # enables automatic tooltip links generated
                                    # for each section titles on pages and posts
 enable_darkmode:            true   # enables switching between light/dark modes
-enable_navbar_social:       false  # enables displaying social links in the
+enable_navbar_social:       false  # enables displaying social links in thepages
                                    # navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
-enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
+enable_progressbar:         false   # enables a horizontal progress bar linked to the vertical scroll position
 
 # -----------------------------------------------------------------------------
 # Library versions

@@ -1,12 +1,15 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /resources/
+title: resources
+description: A collection of resources for students and researchers.
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+#### Gitbook
 
-Organize your courses by years, topics, or universities, however you like!
+- [Handy Py](https://prasadshreyas.github.io/handy-py/intro.html) - A collection of python snippets that I have written over the years to make my life easier for interviews and programming puzzles.
+- [Handy ML](https://prasadshreyas.github.io/handy-ml/intro.html) - A last minute cheat sheet for machine learning interviews.
+
+#### Github
